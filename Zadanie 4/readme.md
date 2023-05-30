@@ -3,7 +3,7 @@
 
   
 
-**Uwaga ! Zadanie ma być samodzielną implementacją algorytmu znajdującego najkrótszą ścieżkę w grafie**
+**Uwaga! Zadanie ma być samodzielną implementacją algorytmu znajdującego najkrótszą ścieżkę w grafie**
 
   
   
